@@ -1,8 +1,5 @@
 # Machine Learning Approaches for Expected Goals (xG)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
-![Football Analytics](https://img.shields.io/badge/Domain-Football%20Analytics-green.svg)
 
 > **Bachelor Thesis**: Advancing player performance analysis for men's professional football using machine learning approaches for expected goals.
 
@@ -160,7 +157,7 @@ The complete academic thesis is available in `Haghgoo_BachelorThesis.pdf`, conta
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](../../issues).
+Contributions, issues, and feature requests are welcome! 
 
 ## 📝 License
 
@@ -170,7 +167,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Sina Haghgoo**
 
-- Bachelor's Thesis, 2025
 - Vienna University of Economics and Business (WU Wien)
 
 ---
